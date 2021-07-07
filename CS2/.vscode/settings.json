@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": [
+        "tempetureReport",
+        "studentClass",
+        "socialSecurityNumberMath",
+        "purse",
+        "madLibs",
+        "TicTacToe",
+        "Student",
+        "Social",
+        "Report",
+        "PerfectNumber",
+        "MyCanvas",
+        "LoopFileProblems",
+        "Distance",
+        "CheckerBoard",
+        "CalculationToolbox",
+        "BasicGraphics",
+        "Ascii Art",
+        "ArrayPractice",
+        "ArrayMethods",
+        "ArrayListsInJava",
+        "variablsJava"
+    ]
+}
